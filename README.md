@@ -1,1 +1,1 @@
-This is a expense tracking project made using Java SpringBoot.
+This is an expense tracking project made using Java SpringBoot.
